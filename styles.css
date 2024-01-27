@@ -1,0 +1,104 @@
+.navbar{
+    height: 34px;
+    background-color: rgb(3, 71, 116);
+    position: sticky;
+    top: 0px;
+    padding: 20px;
+    
+}
+header{
+    position: sticky;
+    top: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: greenyellow;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    
+}
+ul li{
+    font-size: 2rem;
+    color: white;
+    list-style: none;
+}
+.container{
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+}
+.container2{
+    background-color: rgb(2, 2, 80);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.box3{
+    height: 70vh;
+    width: 45%;
+    background-color: pink;
+    display: inline-block;
+    margin: 20px;
+}
+.box4{
+    height: 70vh;
+    width: 45%;
+    background-color: aqua;
+    display: inline-block;
+    margin: 20px;
+}
+.box1{
+    height: 70vh;
+    width: 45%;
+    background-color: red;
+    display: inline-block;
+    margin: 20px;
+}
+.box2{
+    height: 70vh;
+    width: 45%;
+    background-color: green;
+    display: inline-block;
+    margin: 20px;
+}
+.sigma{
+    margin: 50px 28vw ;
+    padding: 25px;
+    border: 3px solid black;
+    display: inline-block;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+footer{
+    height: 38px;
+    background-color: rgb(199, 199, 137);
+}
+.ball{
+    height: 30px;
+    width: 30px;
+    background-color: gray;
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+    border-radius: 18px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    color: white;
+    /* font-size: 35px; */
+}
+.sigma:hover{
+    background-color: black;
+    border: 3px solid black;
+   
+}
